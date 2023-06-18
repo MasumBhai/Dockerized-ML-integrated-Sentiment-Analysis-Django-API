@@ -1,0 +1,5 @@
+venv/
+SentimentAnalysisAPI/migrations/
+db.sqlite3
+.idea/
+.vs/
